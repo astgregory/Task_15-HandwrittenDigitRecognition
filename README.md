@@ -71,11 +71,8 @@
 3. Запустите Jupyter Notebook и выполните все ячейки последовательно.
 
 ## Зависимости
-    ```bash
+
     numpy
-
     tensorflow (Keras)
-
     scikit-learn (train_test_split)
-
     matplotlib (визуализация)
